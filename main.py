@@ -25,4 +25,6 @@ def status_check():
         return status.HTTP_404_NOT_FOUND
     return "Server Running"
 
-#stock_API_Response('AAPL')
+# Test line
+print(stock_API_Response('AMZN'))
+print("Project works!")
