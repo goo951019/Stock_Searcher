@@ -1,5 +1,5 @@
 Python Stock Searcher
-The app searches Nasdaq and MarketWatch websites to obtain Stock Data.
+The app searches MarketWatch websites to obtain Stock Data.
 It grabs data with urlopen, parses with Beautifil Soup, and creates an endpoint with Flask_API.
 
 how to run:
